@@ -23,7 +23,7 @@ export const profile = {
 
 /** Browser tab title, meta description and social share card. */
 export const meta = {
-  url: "https://justitssora.vercel.app",
+  url: "https://justitssora-portfolio.vercel.app",
   title: "JustItsSora · Portafolio",
   description:
     "Desarrollador de software en Linux. Aplicaciones de escritorio y utilidades en C#, Python y Rust.",
